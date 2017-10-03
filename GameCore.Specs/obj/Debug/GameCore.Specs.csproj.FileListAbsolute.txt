@@ -19,3 +19,5 @@ F:\Repositories\GameCore\GameCore.Specs\obj\Debug\GameCore.Specs.csprojResolveAs
 F:\Repositories\GameCore\GameCore.Specs\obj\Debug\GameCore.Specs.csproj.CoreCompileInputs.cache
 F:\Repositories\GameCore\GameCore.Specs\obj\Debug\GameCore.Specs.dll
 F:\Repositories\GameCore\GameCore.Specs\obj\Debug\GameCore.Specs.pdb
+F:\Repositories\GameCore\GameCore.Specs\bin\Debug\GameCore.dll
+F:\Repositories\GameCore\GameCore.Specs\bin\Debug\GameCore.pdb
