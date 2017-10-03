@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameCore
 {
-    public class PlazerCharacter
+    public class PlayerCharacter
     {
         public int Health { get; private set; } = 100;
         public bool IsDead { get; private set; }
