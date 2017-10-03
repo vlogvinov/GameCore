@@ -1,6 +1,5 @@
 F:\Repositories\GameCore\GameCore\bin\Debug\GameCore.dll
 F:\Repositories\GameCore\GameCore\bin\Debug\GameCore.pdb
-F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.csprojResolveAssemblyReference.cache
 F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
 F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.dll
 F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.pdb
