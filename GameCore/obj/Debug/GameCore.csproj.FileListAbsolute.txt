@@ -4,3 +4,8 @@ F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.ca
 F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.dll
 F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.pdb
 F:\Repositories\GameCore\GameCore\obj\Debug\GameCore.csprojResolveAssemblyReference.cache
+D:\Repositories\GameCore\GameCore\bin\Debug\GameCore.dll
+D:\Repositories\GameCore\GameCore\bin\Debug\GameCore.pdb
+D:\Repositories\GameCore\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
+D:\Repositories\GameCore\GameCore\obj\Debug\GameCore.dll
+D:\Repositories\GameCore\GameCore\obj\Debug\GameCore.pdb
